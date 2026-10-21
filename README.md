@@ -1,4 +1,4 @@
-# MedVault — Secure Medical Records Management System
+﻿# MedVault - Secure Medical Records Management System
 
 MedVault is a healthcare-focused backend application designed to help users securely manage their medical records through REST APIs. The project provides user registration and authentication, medical-record management, search, categorization, sorting, and pagination.
 
@@ -35,32 +35,32 @@ The backend is built with Java, Spring Boot, Spring Security, Spring Data JPA, a
 
 ```text
 MedVault/
-├── .mvn/
-├── src/
-│   ├── main/
-│   │   ├── java/com/medvault/
-│   │   │   ├── CustomAuthenticationEntryPoint.java
-│   │   │   ├── CustomUserDetailsService.java
-│   │   │   ├── GlobalExceptionHandler.java
-│   │   │   ├── HealthController.java
-│   │   │   ├── MedicalRecord.java
-│   │   │   ├── MedicalRecordController.java
-│   │   │   ├── MedicalRecordRepository.java
-│   │   │   ├── MedicalRecordService.java
-│   │   │   ├── MedvaultApplication.java
-│   │   │   ├── PasswordConfig.java
-│   │   │   ├── SecurityConfig.java
-│   │   │   ├── User.java
-│   │   │   ├── UserController.java
-│   │   │   ├── UserRepository.java
-│   │   │   └── UserService.java
-│   │   └── resources/
-│   │       └── application.properties
-│   └── test/
-├── pom.xml
-├── mvnw
-├── mvnw.cmd
-└── .gitignore
+â”œâ”€â”€ .mvn/
+â”œâ”€â”€ src/
+â”‚   â”œâ”€â”€ main/
+â”‚   â”‚   â”œâ”€â”€ java/com/medvault/
+â”‚   â”‚   â”‚   â”œâ”€â”€ CustomAuthenticationEntryPoint.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ CustomUserDetailsService.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ GlobalExceptionHandler.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ HealthController.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ MedicalRecord.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ MedicalRecordController.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ MedicalRecordRepository.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ MedicalRecordService.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ MedvaultApplication.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ PasswordConfig.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ SecurityConfig.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ User.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ UserController.java
+â”‚   â”‚   â”‚   â”œâ”€â”€ UserRepository.java
+â”‚   â”‚   â”‚   â””â”€â”€ UserService.java
+â”‚   â”‚   â””â”€â”€ resources/
+â”‚   â”‚       â””â”€â”€ application.properties
+â”‚   â””â”€â”€ test/
+â”œâ”€â”€ pom.xml
+â”œâ”€â”€ mvnw
+â”œâ”€â”€ mvnw.cmd
+â””â”€â”€ .gitignore
 ```
 
 ## Getting Started
@@ -208,3 +208,4 @@ GitHub: [@Revanth1712](https://github.com/Revanth1712)
 ## License
 
 No license has been specified yet. Until a license is added to the repository, reuse and redistribution permissions should not be assumed.
+
