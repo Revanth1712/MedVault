@@ -1,0 +1,7 @@
+{
+  "patientName": "Isolation Test Patient",
+  "recordType": "LAB_REPORT",
+  "title": "Updated Blood Report",
+  "recordDate": "2026-10-20",
+  "description": "Successfully updated by the record owner"
+}

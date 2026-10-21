@@ -1,0 +1,7 @@
+{
+  "patientName": "Isolation Test Patient",
+  "recordType": "LAB_REPORT",
+  "title": "Isolation Test Blood Report",
+  "recordDate": "2026-10-20",
+  "description": "Fictional record for ownership testing"
+}

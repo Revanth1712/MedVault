@@ -1,0 +1,7 @@
+{
+  "patientName": "Unauthorized Update Attempt",
+  "recordType": "LAB_REPORT",
+  "title": "Modified Without Permission",
+  "recordDate": "2026-10-20",
+  "description": "Testing record ownership protection"
+}

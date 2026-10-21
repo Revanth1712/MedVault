@@ -1,0 +1,7 @@
+﻿{
+  "title": "Authentication Test Record",
+  "description": "Created to verify authenticated medical record access",
+  "patientName": "MedVault Test Patient",
+  "recordType": "Blood Test",
+  "recordDate": "2026-10-20"
+}
