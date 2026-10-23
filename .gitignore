@@ -66,3 +66,22 @@ startup-debug.txt
 # Ignore credential-bearing test payloads in any directory
 **/register-test.json
 **/valid-user.json
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+secrets.properties
+*.pem
+*.key
+
+# Local environment and secrets
+.idea/
+.vscode/
+*.log
+
+# Test files that may contain credentials
+/empty-password.json
+/long-password.json
+/missing-password.json
